@@ -12,6 +12,7 @@ function Use-Disarm {
         Version 2018.10.12
         By David Reed, @ReedTechno
         
+        https://github.com/Reedtechno/misc/blob/master/Use-Disarm.ps1
     #>
 
     [CmdletBinding()]
